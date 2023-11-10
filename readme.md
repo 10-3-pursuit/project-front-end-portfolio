@@ -4,7 +4,6 @@ This project is designed to test all of the skills you've learned so far. By the
 
 This project will:
 
-- Have a deployed front-end application.
 - Allow for user interaction through button clicks and form inputs.
 - Make requests to an external API.
 - Have a theme and unique product design.
@@ -30,6 +29,7 @@ Several specific requirements should be completed as part of this project. Read 
 1. Your GitHub repository should have a `readme.md` file with setup instructions for your application.
 1. Your project should have a coherent theme and narrative.
 1. Your project should be deployed to the web. Include a URL to your deployed website in the `readme.md` file.
+1. Your project should have a proposal.md file that has a `User Stories` header and lists at least 5 User Stories
 
 #### Front-end visual requirements
 
@@ -38,7 +38,7 @@ Several specific requirements should be completed as part of this project. Read 
 1. Your application must include one or more `.js` files that are linked to one or more pages.
 1. You must make use of CSS Grid to organize your content on at least one of your pages.
 1. You must use the `:hover` selector in at least one CSS rule.
-1. You must use an HTML form on at least one of your pages.
+1. You must use an HTML form on at least one of your pages. That form must, minimally, contain a button that calls the API and generates some type of change to your page in the browswer.
 1. All of your pages must have some visual changes that occur when the screen is a different size.
 
 #### Front-end interactivity requirements
@@ -47,6 +47,25 @@ Several specific requirements should be completed as part of this project. Read 
 1. When a form is submitted on your page, JavaScript should prevent the default behavior of that form and some other effect should take place.
 1. There should be at least one way to incorrectly submit the form. When the form is incorrectly submitted, an error message should be added to the DOM for the user.
 1. Based on a button click or form submission, an external API request must be made. Upon receiving a successful response, something visual on the page should change.
+1. One of your pages must be responsive, which includes, at least, one breakpoint.
+
+### Style Guide
+
+- In your event listeners you must use the `event.target` value to capture the data from the form.
+
+- You must use media queries to create responsive design. Please have at least 1 breakpoing i.e. 1 media query
+
+- You must give your variables meaningful, readable names
+
+- You should use `array methods` instead of using a `for` loop
+
+- always use `const` if at all possible, instead of `let`
+
+- all CSS should be located in an external file except for absolute necessity to use inline CSS
+
+- JavaScript files should be imported in the `<head>` element of your HTML file
+
+- `.querySelector` and `.querySelectorAll` must be used instead of `.getElementById` or `.getClassNames`
 
 ### Mastery rubric
 
@@ -63,6 +82,7 @@ When you submit your pull request, _make sure to include a description of any st
 - Store some information locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage). This information should affect what is shown on the page when the page is reloaded.
 - Use a CSS framework such as [Simple.css](https://simplecss.org/) or [Bootstrap](https://getbootstrap.com/).
 - Split your CSS or JavaScript into multiple files, with each file relating to a specific functionality. For example, create a new file called `api.js` that includes the JavaScript code that makes requests to your external API.
+- choose your own stretch goal where you self learn and add to your project
 
 Points will be allocated in this section at the discretion of the instructor.
 
