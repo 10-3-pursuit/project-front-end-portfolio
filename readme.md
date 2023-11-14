@@ -30,7 +30,6 @@ Several specific requirements should be completed as part of this project. Read 
 1. Your project should have a coherent theme and narrative.
 1. Your project should be deployed to the web. Include a URL to your deployed website in the `readme.md` file.
 1. Your project should have a proposal.md file that has a `User Stories` header and lists at least 5 User Stories
-1. You
 
 #### Front-end visual requirements
 
