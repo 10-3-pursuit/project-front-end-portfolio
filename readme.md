@@ -98,6 +98,7 @@ When you submit your pull request, _make sure to include a description of any st
 - Store some information locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage). This information should affect what is shown on the page when the page is reloaded.
 - Use a CSS framework such as [Bootstrap](https://getbootstrap.com/) or [Tailwind](https://tailwindcss.com/).
 - Split your CSS or JavaScript into multiple files, with each file relating to a specific functionality. For example, create a new file called `api.js` that includes the JavaScript code that makes requests to your external API.
+- add lo-fi or hi-fi wireframes for your website
 - choose your own stretch goal where you self learn and add to your project
 
 Points will be allocated in this section at the discretion of the instructor.
