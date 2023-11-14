@@ -80,7 +80,7 @@ When you submit your pull request, _make sure to include a description of any st
 - Add a button or icon to the error that displays when a form is incorrectly filled out. When this button or icon is clicked, the error is removed from the page.
 - Use [CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) to add effects to your page.
 - Store some information locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage). This information should affect what is shown on the page when the page is reloaded.
-- Use a CSS framework such as [Simple.css](https://simplecss.org/) or [Bootstrap](https://getbootstrap.com/).
+- Use a CSS framework such as [Bootstrap](https://getbootstrap.com/) or [Tailwind](https://tailwindcss.com/).
 - Split your CSS or JavaScript into multiple files, with each file relating to a specific functionality. For example, create a new file called `api.js` that includes the JavaScript code that makes requests to your external API.
 - choose your own stretch goal where you self learn and add to your project
 
