@@ -67,6 +67,22 @@ Several specific requirements should be completed as part of this project. Read 
 
 - `.querySelector` and `.querySelectorAll` must be used instead of `.getElementById` or `.getElementsByClassName`
 
+### Daily Stand Up
+
+You will be required to attend a daily standup.
+
+Standup is a short meeting where each person speaks and tells us the following 3 things only:
+
+1. What you worked on yesterday.
+2. What you plan to accomplish today
+3. Blockers, what is impeding you from making progress at the moment.
+
+\*\*\*It is not a debugging session.
+
+### Presentation
+
+You will present your project to the coaches and the cohort in a ~7 minute maximum presentation. It is a part of your grade. You will receive a checklist that you can follow for your presentation.
+
 ### Mastery rubric
 
 This section of the project is designed to measure your increasing skill at writing good code and following best practices. To view components of the mastery rubric, view the appropriate assignment on Canvas.
