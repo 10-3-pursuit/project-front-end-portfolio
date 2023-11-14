@@ -33,12 +33,12 @@ Several specific requirements should be completed as part of this project. Read 
 
 #### Front-end visual requirements
 
-5. Your application must have at least two `.html` files that are connected.
+6. Your application must have at least two `.html` files that are connected.
 1. Your application must include one or more `.css` files that are linked to one or more pages.
 1. Your application must include one or more `.js` files that are linked to one or more pages.
 1. You must make use of CSS Grid to organize your content on at least one of your pages.
 1. You must use the `:hover` selector in at least one CSS rule.
-1. You must use an HTML form on at least one of your pages. That form must, minimally, contain a button that calls the API and generates some type of change to your page in the browswer.
+1. You must use an HTML form on at least one of your pages. That form must, minimally, contain a button that calls the API and generates some type of change to your page in the browser.
 1. All of your pages must have some visual changes that occur when the screen is a different size.
 
 #### Front-end interactivity requirements
