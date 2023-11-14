@@ -53,7 +53,7 @@ Several specific requirements should be completed as part of this project. Read 
 
 - In your event listeners you must use the `event.target` value to capture the data from the form.
 
-- You must use media queries to create responsive design. Please have at least 1 breakpoing i.e. 1 media query
+- You must use media queries to create responsive design. Please have at least 1 breakpoint i.e. 1 media query
 
 - You must give your variables meaningful, readable names
 
