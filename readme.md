@@ -43,7 +43,7 @@ Several specific requirements should be completed as part of this project. Read 
 
 #### Front-end interactivity requirements
 
-12. On page load, an external API request must be made. Upon receiving a successful response, something visual on the page should change.
+13. On page load, an external API request must be made. Upon receiving a successful response, something visual on the page should change.
 1. When a form is submitted on your page, JavaScript should prevent the default behavior of that form and some other effect should take place.
 1. There should be at least one way to incorrectly submit the form. When the form is incorrectly submitted, an error message should be added to the DOM for the user.
 1. Based on a button click or form submission, an external API request must be made. Upon receiving a successful response, something visual on the page should change.
