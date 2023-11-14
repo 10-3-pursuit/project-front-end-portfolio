@@ -61,7 +61,7 @@ Several specific requirements should be completed as part of this project. Read 
 
 - always use `const` if at all possible, instead of `let`
 
-- all CSS should be located in an external file except for absolute necessity to use inline CSS
+- all CSS should be located in an external file except for absolute neccessity to use inline CSS
 
 - JavaScript files should be imported in the `<head>` element of your HTML file
 
